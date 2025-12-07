@@ -37,11 +37,7 @@ This Tic-Tac-Toe Game is a classic two-player game where users take turns markin
 
 ---
 
-This project is created for educational purposes and is free to use and modify.
-
----
-
 ##  Author
 
-Developed by **Rushikesh Auti**
+**Rushikesh Auti**
 
